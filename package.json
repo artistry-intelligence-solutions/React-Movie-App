@@ -14,9 +14,7 @@
     "react-scripts": "4.0.3",
     "style-components": "^0.1.0",
     "styled-components": "^5.3.3",
-    "web-vitals": "^1.1.2",
-    "netlify": "netlify deploy",
-    "netlify:prod": "netlify deploy --prod"
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
